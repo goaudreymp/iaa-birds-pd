@@ -1,0 +1,15 @@
+Alauda_gulgula
+Mirafra_erythrocephala
+Mirafra_javanica
+Melopsittacus_undulatus
+Casuarius_casuarius
+Dromaius_novaehollandiae
+Apteryx_australis
+Struthio_camellus
+Chelonia_mydas
+Testudo_graeca
+Alligator_sinensis
+Crocodylus_porosus
+Varanus_komodoensis
+Crocodylus_johnstoni
+Caretta_caretta
