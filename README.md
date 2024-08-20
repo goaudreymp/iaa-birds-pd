@@ -5,7 +5,7 @@ code and data for chapter 2 of thesis
 This folder includes data and code to run the analysis for the manuscript in progress/thesis Chapter 2 
 
 The associated code files includes:
-- Phylo folder: all scripts and data required for the phylogenetic inference part of the analyses
+- Phylo files: all scripts and data required for the phylogenetic inference part of the analyses
 - R_PD folder: all R code and input required for the phylogenetic diversity part of the analyses
 
 Below is a description for each data file included in this folder that is required to run the above code:
