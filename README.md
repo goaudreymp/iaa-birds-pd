@@ -1,12 +1,10 @@
-# iaa-birds-pd
-code and data for chapter 2 of thesis
-
-# Updated supertree for passerines from the Indo-Australian Archipelago highlights superendemism in New Guinea.
-This folder includes data and code to run the analysis for the manuscript in progress/thesis Chapter 2 
+# Supermatrix phylogenetic tree of passerine birds from the Indo-Australian Archipelago highlights contrasting histories of regional endemism
+This folder includes data and code to run the analysis for the manuscript in progress titled above.
 
 The associated code files includes:
 - Phylo files: all scripts and data required for the phylogenetic inference part of the analyses
 - R_PD folder: all R code and input required for the phylogenetic diversity part of the analyses
+- oldbeast folder: files containing old incomplete beast runs
 
 Below is a description for each data file included in this folder that is required to run the above code:
 
